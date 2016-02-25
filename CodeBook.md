@@ -1,4 +1,4 @@
-## Code Book
+# Code Book
 
 This code book describes the variables, the data, and any transformation or work that I performed to clean up the data.
 
@@ -24,83 +24,158 @@ For each record in the dataset it is provided:
 ### Output Data Fields in tidy_data.txt.
 
 * Identifiers
+
 subject - The ID of the test subject
+
 activity - The type of activity performed when the corresponding measurements were taken
 
 * Measurements
+
 timeBodyAccelerometerMeanX
+
 timeBodyAccelerometerMeanY
+
 timeBodyAccelerometerMeanZ
+
 timeBodyAccelerometerStdX
+
 timeBodyAccelerometerStdY
+
 timeBodyAccelerometerStdZ
+
 timeGravityAccelerometerMeanX
+
 timeGravityAccelerometerMeanY
+
 timeGravityAccelerometerMeanZ
+
 timeGravityAccelerometerStdX
+
 timeGravityAccelerometerStdY
+
 timeGravityAccelerometerStdZ
+
 timeBodyAccelerometerJerkMeanX
+
 timeBodyAccelerometerJerkMeanY
+
 timeBodyAccelerometerJerkMeanZ
+
 timeBodyAccelerometerJerkStdX
+
 timeBodyAccelerometerJerkStdY
+
 timeBodyAccelerometerJerkStdZ
+
 timeBodyGyroscopeMeanX
+
 timeBodyGyroscopeMeanY
+
 timeBodyGyroscopeMeanZ
+
 timeBodyGyroscopeStdX
+
 timeBodyGyroscopeStdY
+
 timeBodyGyroscopeStdZ
+
 timeBodyGyroscopeJerkMeanX
+
 timeBodyGyroscopeJerkMeanY
+
 timeBodyGyroscopeJerkMeanZ
+
 timeBodyGyroscopeJerkStdX
+
 timeBodyGyroscopeJerkStdY
+
 timeBodyGyroscopeJerkStdZ
+
 timeBodyAccelerometerMagnitudeMean
+
 timeBodyAccelerometerMagnitudeStd
+
 timeGravityAccelerometerMagnitudeMean
+
 timeGravityAccelerometerMagnitudeStd
+
 timeBodyAccelerometerJerkMagnitudeMean
+
 timeBodyAccelerometerJerkMagnitudeStd
+
 timeBodyGyroscopeMagnitudeMean
+
 timeBodyGyroscopeMagnitudeStd
+
 timeBodyGyroscopeJerkMagnitudeMean
+
 timeBodyGyroscopeJerkMagnitudeStd
+
 frequencyBodyAccelerometerMeanX
+
 frequencyBodyAccelerometerMeanY
+
 frequencyBodyAccelerometerMeanZ
+
 frequencyBodyAccelerometerStdX
+
 frequencyBodyAccelerometerStdY
+
 frequencyBodyAccelerometerStdZ
+
 frequencyBodyAccelerometerJerkMeanX
+
 frequencyBodyAccelerometerJerkMeanY
+
 frequencyBodyAccelerometerJerkMeanZ
+
 frequencyBodyAccelerometerJerkStdX
+
 frequencyBodyAccelerometerJerkStdY
+
 frequencyBodyAccelerometerJerkStdZ
+
 frequencyBodyGyroscopeMeanX
+
 frequencyBodyGyroscopeMeanY
+
 frequencyBodyGyroscopeMeanZ
+
 frequencyBodyGyroscopeStdX
+
 frequencyBodyGyroscopeStdY
+
 frequencyBodyGyroscopeStdZ
+
 frequencyBodyAccelerometerMagnitudeMean
+
 frequencyBodyAccelerometerMagnitudeStd
+
 frequencyBodyAccelerometerJerkMagnitudeMean
+
 frequencyBodyAccelerometerJerkMagnitudeStd
+
 frequencyBodyGyroscopeMagnitudeMean
+
 frequencyBodyGyroscopeMagnitudeStd
+
 frequencyBodyGyroscopeJerkMagnitudeMean
+
 frequencyBodyGyroscopeJerkMagnitudeStd
 
+
 * Activity Labels
+
 walking - subject was walking during the test
+
 walkingUpstairs - subject was walking up a staircase during the test
+
 walkingDownstairs - subject was walking down a staircase during the test
+
 sitting - subject was sitting during the test
+
 standing - subject was standing during the test
+
 laying - subject was laying down during the test
 
 

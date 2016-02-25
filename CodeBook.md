@@ -23,13 +23,15 @@ For each record in the dataset it is provided:
 
 ### Output Data Fields in tidy_data.txt.
 
-* Identifiers
+#### * Identifiers
 
 subject - The ID of the test subject
 
 activity - The type of activity performed when the corresponding measurements were taken
 
-* Measurements
+
+
+#### * Measurements
 
 timeBodyAccelerometerMeanX
 
@@ -164,7 +166,8 @@ frequencyBodyGyroscopeJerkMagnitudeMean
 frequencyBodyGyroscopeJerkMagnitudeStd
 
 
-* Activity Labels
+
+#### * Activity Labels
 
 walking - subject was walking during the test
 
